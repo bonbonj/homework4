@@ -63,6 +63,7 @@ link to the exact top of the page.*/
 border around all elements in focus.*/
 :focus {
     border-color: #ffffff;
+    border-style: solid;
     border-width: 2px;
 }
 
