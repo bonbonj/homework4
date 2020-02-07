@@ -61,7 +61,7 @@ link to the exact top of the page.*/
 /*Your code here*/
 /*Add the selector and code to put a 2px black
 border around all elements in focus.*/
-:focus {
+*:focus {
     border-color: #000000;
     border-style: solid;
     border-width: 2px;
