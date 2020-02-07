@@ -169,8 +169,9 @@ header p{
   padding: 30px;
   /*Your code here:*/
   /*Align the content in the center */
-  text-align: center;
   display: inline-block;
+  justify-content: center;
+  align-content: center;
   margin: auto;
 }
 
